@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="DELETE">
+        <active>true</active>
+        <app_config display_value="Advanced Dashboards">02dc36706f01011089060168e25b3691</app_config>
+        <description/>
+        <disable_auto_reflow>false</disable_auto_reflow>
+        <event_mappings/>
+        <macroponent/>
+        <macroponent_config>{}</macroponent_config>
+        <name>NeedIt Application default</name>
+        <order>0</order>
+        <parent_macroponent display_value="UXR Base Experience Shell - Advanced">47bcb58553030110aab9ddeeff7b12c2</parent_macroponent>
+        <required_translations>[ ]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="NeedIt Application">8e1e003e93556e100c1cb6597bba1037</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-07 14:13:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>da1e003e93556e100c1cb6597bba1065</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Application default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_screen_da1e003e93556e100c1cb6597bba1065</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-07 14:13:22</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="DELETE" query="documentkey=da1e003e93556e100c1cb6597bba1065"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>d1d28ad03b2ca654c55a348aa4e45aa6</instance_id>
+        <instance_name>dev308024</instance_name>
+        <name>sys_ux_screen_da1e003e93556e100c1cb6597bba1065</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen"><sys_ux_screen action="INSERT_OR_UPDATE"><active>true</active><app_config display_value="Advanced Dashboards">02dc36706f01011089060168e25b3691</app_config><description/><disable_auto_reflow>false</disable_auto_reflow><event_mappings/><macroponent/><macroponent_config>{}</macroponent_config><name>NeedIt Application default</name><order>0</order><parent_macroponent display_value="UXR Base Experience Shell - Advanced">47bcb58553030110aab9ddeeff7b12c2</parent_macroponent><required_translations>[ ]</required_translations><rollback_screen/><screen_condition/><screen_type display_value="NeedIt Application">8e1e003e93556e100c1cb6597bba1037</screen_type><sys_class_name>sys_ux_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-07 14:13:22</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>da1e003e93556e100c1cb6597bba1065</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Application default</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_screen_da1e003e93556e100c1cb6597bba1065</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-07 14:13:22</sys_updated_on></sys_ux_screen><sys_translated_text action="delete_multiple" query="documentkey=da1e003e93556e100c1cb6597bba1065"/></record_update>]]></payload>
+        <payload_hash>-1653363952</payload_hash>
+        <record_name>NeedIt Application default</record_name>
+        <reverted_from/>
+        <source>7789936693516e100c1cb6597bba105b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-07 14:14:39</sys_created_on>
+        <sys_id>5d6e883e93556e100c1cb6597bba10f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196ab193bbe0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-07 14:14:39</sys_updated_on>
+        <type>UX Screen</type>
+        <update_guid>1e1e003ecb556e10d47d860cb6758969</update_guid>
+        <update_guid_history>1e1e003ecb556e10d47d860cb6758969:-875361223,1e1e003ecb556e10d47d860cb6758969:-875361223</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-07 14:14:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen">sys_ux_screen</sys_db_object>
+        <sys_id>50d5ff58795f408bb9fb692e68969ed1</sys_id>
+        <sys_metadata>da1e003e93556e100c1cb6597bba1065</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Application default</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_da1e003e93556e100c1cb6597bba1065</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_da1e003e93556e100c1cb6597bba1065">5d6e883e93556e100c1cb6597bba10f1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-07 14:14:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

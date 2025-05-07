@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="DELETE">
+        <can_read>true</can_read>
+        <can_share>true</can_share>
+        <can_write>true</can_write>
+        <dashboard display_value="NeedIt Application">abfb8cf693556e100c1cb6597bba10bc</dashboard>
+        <group/>
+        <owner>true</owner>
+        <role/>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-07 14:04:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>23fb8cf693556e100c1cb6597bba10bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>abfb8cf693556e100c1cb6597bba10bc</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>par_dashboard_permission_23fb8cf693556e100c1cb6597bba10bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-07 14:04:10</sys_updated_on>
+        <user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user>
+    </par_dashboard_permission>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>d1d28ad03b2ca654c55a348aa4e45aa6</instance_id>
+        <instance_name>dev308024</instance_name>
+        <name>par_dashboard_permission_23fb8cf693556e100c1cb6597bba10bf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission"><par_dashboard_permission action="INSERT_OR_UPDATE"><can_read>true</can_read><can_share>true</can_share><can_write>true</can_write><dashboard display_value="NeedIt Application">abfb8cf693556e100c1cb6597bba10bc</dashboard><group/><owner>true</owner><role/><sys_class_name>par_dashboard_permission</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-05-07 14:04:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>23fb8cf693556e100c1cb6597bba10bf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>abfb8cf693556e100c1cb6597bba10bc</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>par_dashboard_permission_23fb8cf693556e100c1cb6597bba10bf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-05-07 14:04:10</sys_updated_on><user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</user></par_dashboard_permission></record_update>]]></payload>
+        <payload_hash>1703412905</payload_hash>
+        <record_name>abfb8cf693556e100c1cb6597bba10bc</record_name>
+        <reverted_from/>
+        <source>7789936693516e100c1cb6597bba105b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-07 14:04:10</sys_created_on>
+        <sys_id>6bfb807a93556e100c1cb6597bba10f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>196ab0fa1b20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-07 14:04:10</sys_updated_on>
+        <type>PAR Dashboard Permission</type>
+        <update_guid>6ffb807aa5556e10696d019cb161aaf6</update_guid>
+        <update_guid_history>6ffb807aa5556e10696d019cb161aaf6:1703412905</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">062cc47a93556e100c1cb6597bba1072</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-07 14:04:53</sys_created_on>
+        <sys_db_object display_value="" name="par_dashboard_permission">par_dashboard_permission</sys_db_object>
+        <sys_id>1bb754bbeb864060aeb07b94300f6900</sys_id>
+        <sys_metadata>23fb8cf693556e100c1cb6597bba10bf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>abfb8cf693556e100c1cb6597bba10bc</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>par_dashboard_permission_23fb8cf693556e100c1cb6597bba10bf</sys_update_name>
+        <sys_update_version display_value="par_dashboard_permission_23fb8cf693556e100c1cb6597bba10bf">6bfb807a93556e100c1cb6597bba10f7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-07 14:04:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
